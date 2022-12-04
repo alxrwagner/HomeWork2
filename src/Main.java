@@ -23,7 +23,7 @@ public class Main {
       } else if (startPointSegment1 > startPointSegment2 && endPointSegment1 == endPointSegment2) {
          System.out.println("Начальная точка пересечения: " + startPointSegment1 + ", конечная точка пересечения: " + endPointSegment2);
       }else {
-         System.out.println("Не пересекаются");
+         System.out.println("Не пересекаются ");
       }
    }
 }
